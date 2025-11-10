@@ -28,8 +28,9 @@ Dilate the Image
  
 ## Program:
 ```
-NAME : VIGNESH V
-REG NO : 212223230241
+NAME : panduru somu
+REG NO : 212223240111
+
 ```
 # Import the necessary packages
 ```
@@ -72,7 +73,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184913](https://github.com/user-attachments/assets/aa444865-3760-43e8-b8c7-89de17dfcb38)
+
+<img width="385" height="93" alt="image" src="https://github.com/user-attachments/assets/eaa06173-f311-4613-ac25-8263cdb33d15" />
 
 
 <br>
@@ -83,7 +85,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184931](https://github.com/user-attachments/assets/79ff88cf-b182-4a4a-854b-954b7031dee6)
+<img width="391" height="97" alt="image" src="https://github.com/user-attachments/assets/1badb8ea-f110-4302-aef3-046463314f01" />
+
 
 <br>
 <br>
@@ -93,7 +96,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184944](https://github.com/user-attachments/assets/01864c8c-9382-42e1-b3fa-f9a9888f8344)
+<img width="394" height="104" alt="image" src="https://github.com/user-attachments/assets/200e4a39-1d60-43a6-a294-3bf2e8ac6025" />
+
 
 <br>
 <br>
